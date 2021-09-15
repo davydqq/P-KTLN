@@ -44,6 +44,7 @@ fun floatDouble(){
 }
 
 fun boolSymbolsString(){
+
     var a: Boolean = true
     val b: Boolean = false
 

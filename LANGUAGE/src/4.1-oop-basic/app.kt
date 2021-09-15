@@ -21,7 +21,7 @@ class Person constructor(_name: String){
 }
 
 fun main(){
-    val bob: Person = Person()  // создаем объект
+    val bob: Person = Person("")  // создаем объект
     println(bob.name)       // Undefined
     println(bob.age)        // 18
  
