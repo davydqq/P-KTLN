@@ -70,5 +70,4 @@ fun anyCheck() {
     println(name)   // Tom
     name = 6758
     println(name)   // 6758
-
 }

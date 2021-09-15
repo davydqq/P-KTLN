@@ -19,15 +19,3 @@ class Person constructor(_name: String){
         return "Name: $name  Age: $age"
     }
 }
-
-fun main(){
-    val bob: Person = Person("")  // создаем объект
-    println(bob.name)       // Undefined
-    println(bob.age)        // 18
- 
-    bob.name = "Bob"
-    bob.age = 25
- 
-    println(bob.name)       // Bob
-    println(bob.age)        // 25
-}
