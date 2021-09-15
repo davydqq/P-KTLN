@@ -35,7 +35,3 @@ fun cycleSequnce(){
     
     for(c in 1..9 step 2) print(c)  // 13579
 }
-
-fun main(){
-
-}

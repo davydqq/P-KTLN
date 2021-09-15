@@ -100,7 +100,3 @@ fun returnFromWhen(){
     }
     println(rate)       // 15
 }
-
-fun main() {
-    when2Else();
-}

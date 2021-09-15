@@ -64,7 +64,3 @@ fun notIn(){
     val a = 5
     val b = a !in 1..7
 }
-
-fun main(){
-    notIn()
-}

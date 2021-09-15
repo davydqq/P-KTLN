@@ -72,7 +72,3 @@ fun anyCheck() {
     println(name)   // 6758
 
 }
-
-fun main() {
-    anyCheck()
-}

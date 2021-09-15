@@ -63,8 +63,3 @@ fun twoDimesionArray(){
         println()
     }
 }
-
-
-fun main(){
-
-}

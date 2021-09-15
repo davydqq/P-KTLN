@@ -167,8 +167,3 @@ fun calldoOperation(){
     doOperation(3, 4, {a, b -> a * b}) // 12
     doOperation(3, 4) {a, b -> a * b} // 12
 }
-
-
-fun main(){
-    
-}
